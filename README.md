@@ -217,8 +217,6 @@ Matthew Holt began developing Caddy in 2014 while studying computer science at B
 
 **The name "Caddy" is trademarked.** The name of the software is "Caddy", not "Caddy Server" or "CaddyServer". Please call it "Caddy" or, if you wish to clarify, "the Caddy web server". Caddy is a registered trademark of Stack Holdings GmbH.
 
-- _Project on X: [@caddyserver](https://x.com/caddyserver)_
-- _Author on X: [@mholt6](https://x.com/mholt6)_
 
 Caddy is a project of [ZeroSSL](https://zerossl.com), an HID Global company.
 
